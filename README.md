@@ -1,4 +1,4 @@
-GoFLearn
+Design Patterns Learning Demo
 ========
 
 This Project Records the Learning Routine of GoF.
